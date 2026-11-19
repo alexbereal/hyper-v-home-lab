@@ -27,3 +27,4 @@ The server reported POST error 207 (memory initialisation error) on DIMM slots a
 ![ProLiant startup screen identifying two Xeon X5670 processors and 12 cores](proliant-startup.jpg)
 
 *Startup after troubleshooting. The screen shows both processors and all 12 physical cores.*
+
