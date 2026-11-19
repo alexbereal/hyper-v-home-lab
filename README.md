@@ -16,14 +16,14 @@ I set up an Active Directory domain in a Windows Server VM and used Windows 11 V
 
 The server reported POST error 207 (memory initialisation error) on DIMM slots associated with both processors. I removed and tested memory modules to isolate the faulty ones. After removing those modules, I returned the server to service with 72 GB of working RAM.
 
-![ProLiant startup screen reporting memory initialisation errors across both processors](images/proliant-post-error-207.jpg)
+![ProLiant startup screen reporting memory initialisation errors across both processors](proliant-post-error-207.jpg)
 
 *POST error 207 before troubleshooting.*
 
-![Label on an 8 GB Hynix registered server memory module](images/hynix-server-ram.jpg)
+![Label on an 8 GB Hynix registered server memory module](hynix-server-ram.jpg)
 
 *8 GB Hynix PC3-10600R registered server memory module.*
 
-![ProLiant startup screen identifying two Xeon X5670 processors and 12 cores](images/proliant-startup.jpg)
+![ProLiant startup screen identifying two Xeon X5670 processors and 12 cores](proliant-startup.jpg)
 
 *Startup after troubleshooting. The screen shows both processors and all 12 physical cores.*
